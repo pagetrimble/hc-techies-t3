@@ -23,7 +23,7 @@ const Home: NextPage = () => {
 
       <main className="container mx-auto flex flex-col items-center justify-center min-h-screen p-4">
         <h1 className="text-5xl md:text-[5rem] leading-normal font-extrabold text-gray-700">
-          Let's <span className="text-red-400">F$$%@#$%</span> Party{" "}
+          Let{"'"}s <span className="text-red-400">F$$%@#$%</span> Party{" "}
         </h1>
         <h2 className="text-5xl md:text-[5rem] leading-normal font-extrabold text-gray-700">
           <span className="text-green-400">The Best Page in the WORLD</span>
